@@ -12,7 +12,8 @@
         "laravel/ui": "^4.5",
         "livewire/livewire": "^3.4",
         "mettle/sendportal-core": "^3.0",
-        "predis/predis": "^2.3"
+        "predis/predis": "^2.3",
+        "symfony/mailer": "~7.1.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
